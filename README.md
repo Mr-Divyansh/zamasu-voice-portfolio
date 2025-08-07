@@ -1,2 +1,14 @@
-# zamasu-voice-portfolio
-🎙️ ZAMASU is a modern voice artist portfolio website featuring audio samples (commercial, dubbing, narration, voiceover), dark mode, custom audio player, and responsive design. Built with HTML, CSS, and JavaScript.
+# ZAMASU Voice Portfolio 🎙️
+
+ZAMASU is a sleek and modern voice artist portfolio website designed to showcase audio samples in a professional and user-friendly way. Perfect for voiceover artists, narrators, and dubbing professionals.
+
+## 🔥 Features
+
+- 🎧 Audio samples: Commercial, Dubbing, Narration, and Voiceover
+- 🌙 Dark mode toggle
+- 🔊 Custom audio player
+- 💻 Responsive and mobile-friendly design
+- 🎨 Clean HTML, CSS, and JavaScript structure
+
+## 📁 Project Structure
+
